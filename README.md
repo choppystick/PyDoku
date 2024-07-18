@@ -117,8 +117,10 @@ This class orchestrates the overall game flow, managing transitions between the 
 - Add a scoring system
 - Improve graphics and add animations
 - Add sound effects and background music
-- Implement the LP solver but I honestly I have o idea how.
-
+- Implement the LP solver but I honestly I have no idea how.
+- Hint is bugged. Idk why.
+- When game is paused, user should not be able to do anything.
+  
 ## Contributing
 
 Contributions to this project are welcome!
