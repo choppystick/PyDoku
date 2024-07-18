@@ -48,7 +48,7 @@ This project is an implementation of the classic Sudoku puzzle game using Python
 
 3. Install the required packages:
    ```
-   pip install pygame requests
+   pip install -r requirements.txt
    ```
 
 4. Run the game:
