@@ -36,7 +36,7 @@ This project is an implementation of the classic Sudoku puzzle game using Python
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/sudoku-game.git
+   git clone https://github.com/choppystick/PyDoku.git
    cd sudoku-game
    ```
 
