@@ -114,23 +114,14 @@ This class orchestrates the overall game flow, managing transitions between the 
 
 ## Future Enhancements
 
-- Add a timer to track solving time
-- Implement a hint system
 - Add a scoring system
-- Create a leaderboard
 - Improve graphics and add animations
 - Add sound effects and background music
-- Implement a puzzle solver for demonstration purposes
+- Implement the LP solver but I honestly I have o idea how.
 
 ## Contributing
 
-Contributions to this project are welcome! Please follow these steps to contribute:
-
-1. Fork the repository
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Contributions to this project are welcome!
 
 ## License
 
@@ -138,4 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Enjoy playing Sudoku! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
+Enjoy playing PyDoku! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
